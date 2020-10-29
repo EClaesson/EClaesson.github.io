@@ -6,22 +6,13 @@
     <description>Recent content in Tags on Emanuel Claesson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 19:32:59 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 21:24:21 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TagA</title>
-      <link>/tags/taga/</link>
-      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
+      <title>GameBoy</title>
+      <link>/tags/gameboy/</link>
+      <pubDate>Thu, 29 Oct 2020 21:24:21 +0100</pubDate>
       
-      <guid>/tags/taga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TagB</title>
-      <link>/tags/tagb/</link>
-      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
-      
-      <guid>/tags/tagb/</guid>
+      <guid>/tags/gameboy/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,16 @@
     <description>Recent content on Emanuel Claesson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 19:32:59 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 21:24:21 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Boy Cartridge Codes (DMG/CGB/AGB)</title>
+      <link>/posts/game_boy_cartridge_codes/</link>
+      <pubDate>Thu, 29 Oct 2020 21:24:21 +0100</pubDate>
+      
+      <guid>/posts/game_boy_cartridge_codes/</guid>
+      <description>What does the code on a Game Boy cartridge mean? What language is the game in?</description>
+    </item>
+    
     <item>
       <title>Hardware</title>
       <link>/hardware/</link>
@@ -14,15 +23,6 @@
       
       <guid>/hardware/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>/posts/testpost/</link>
-      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
-      
-      <guid>/posts/testpost/</guid>
-      <description>Content</description>
     </item>
     
     <item>
