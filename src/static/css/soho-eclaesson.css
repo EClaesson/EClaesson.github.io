@@ -33,7 +33,7 @@ footer {
   color: #458588;
 }
 
-.content p {
+.content p, .content li {
   font-size: 16px;
 }
 
@@ -84,4 +84,9 @@ a.tag-link {
 
 .post-content {
   padding-left: 2rem;
+}
+
+code {
+  color: #ebdbb2;
+  background-color: #3c3836;
 }
