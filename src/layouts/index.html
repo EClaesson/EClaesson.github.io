@@ -1,0 +1,45 @@
+{{ define "main" -}}
+  <div class="index-tags">
+    <span class="muted">All Tags &raquo </span>
+    <ul class="tags">
+      {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+          <li>
+            <a href="{{ .RelPermalink }}" class="tag-link">{{ .Title }}</a>
+          </li>
+        {{end}}
+      {{end}}
+    </ul>
+  </div>
+
+  <div class="posts">
+    {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.MainSections -}}
+    {{- $paginator := .Paginate $pages -}}
+
+    {{ range $paginator.Pages }}
+      <article class="post">
+        <h1 class="post-title">
+          <a href="{{ .Permalink }}">&raquo; {{ .Title }}</a>
+        </h1>
+
+        <div class="post-content">
+          <div class="post-date">
+            <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 2, 2006" }}</time> &middot; {{ .ReadingTime }} min read
+          </div>
+
+          {{ partial "tags.html" . }}
+
+          <div>
+            {{ .Summary }}
+          </div>
+
+          <div class="read-more-link">
+            <a href="{{ .Permalink }}">Read More</a>
+          </div>
+        </div>
+      </article>
+    {{- end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+{{- end }}

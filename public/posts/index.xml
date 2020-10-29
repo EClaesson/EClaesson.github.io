@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Emanuel Claesson</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Emanuel Claesson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 19:32:59 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>/posts/testpost/</link>
+      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
+      
+      <guid>/posts/testpost/</guid>
+      <description>Content</description>
+    </item>
+    
+  </channel>
+</rss>

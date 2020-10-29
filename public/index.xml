@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emanuel Claesson</title>
+    <link>/</link>
+    <description>Recent content on Emanuel Claesson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 19:32:59 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware</title>
+      <link>/hardware/</link>
+      <pubDate>Thu, 29 Oct 2020 20:22:10 +0100</pubDate>
+      
+      <guid>/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>/posts/testpost/</link>
+      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
+      
+      <guid>/posts/testpost/</guid>
+      <description>Content</description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>/contributions/</link>
+      <pubDate>Thu, 22 Oct 2020 22:55:24 +0200</pubDate>
+      
+      <guid>/contributions/</guid>
+      <description>» Blender - C https://developer.blender.org/
+Free and Open 3D Creation Software.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Thu, 22 Oct 2020 21:23:26 +0200</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>» Javascript Developer @ Axenu | 2020 - Current
+Javascript, Vue, React, React Native</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/software/</link>
+      <pubDate>Thu, 22 Oct 2020 21:19:42 +0200</pubDate>
+      
+      <guid>/software/</guid>
+      <description>» jskana - Javascript https://github.com/EClaesson/jskana
+Japanese kana and romaji conversion.</description>
+    </item>
+    
+  </channel>
+</rss>

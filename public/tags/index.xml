@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Emanuel Claesson</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Emanuel Claesson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 19:32:59 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TagA</title>
+      <link>/tags/taga/</link>
+      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
+      
+      <guid>/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TagB</title>
+      <link>/tags/tagb/</link>
+      <pubDate>Thu, 29 Oct 2020 19:32:59 +0100</pubDate>
+      
+      <guid>/tags/tagb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

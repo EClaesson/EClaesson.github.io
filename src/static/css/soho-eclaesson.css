@@ -1,0 +1,87 @@
+
+body {
+  background-color: #282828;
+  color: #ebdbb2;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  color: #ebdbb2;
+}
+
+.sidebar {
+  background-color: #3c3836;
+  color: #7c6f64;
+}
+
+.sidebar h1 {
+  color: #ebdbb2;
+}
+
+.sidebar a {
+  color: #458588;
+}
+
+.img-headshot {
+  border: 6px solid #7c6f64;
+}
+
+footer {
+  border-top: 1px solid #7c6f64;
+}
+
+.content a {
+  color: #458588;
+}
+
+.content p {
+  font-size: 16px;
+}
+
+.post-date {
+  color: #7c6f64;
+  margin-bottom: 0;
+}
+
+.post .title {
+  color: #ebdbb2;
+}
+
+.read-more-link {
+  margin-top: 1.5rem;
+}
+
+.read-more-link a {
+  border: 1px solid #458588;
+}
+
+.share-buttons {
+  text-align: inherit;
+  margin-left: -10px;
+}
+
+a.tag-link {
+  color:#7c6f64;
+  background-color: #3c3836;
+}
+
+.content .tags {
+  margin: 0 0 1rem 0;
+  display: inline-block;
+}
+
+.muted {
+  color: #7c6f64;
+}
+
+.index-tags {
+  border-bottom: 1px solid #7c6f64;
+  margin-bottom: 2rem;
+}
+
+.social-icons {
+  font-size: 36px;
+}
+
+.post-content {
+  padding-left: 2rem;
+}
