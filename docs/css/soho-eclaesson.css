@@ -86,6 +86,10 @@ a.tag-link {
   font-size: 36px;
 }
 
+.social-icons a {
+  margin: 0 5px;
+}
+
 .post-content {
   padding-left: 2rem;
 }
