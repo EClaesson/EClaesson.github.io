@@ -8,7 +8,7 @@ tags:
 
 What does the code on a *Game Boy* cartridge mean? What language is the game in?
 
-![Gameboy Cartridges](/content/game_boy_cartridge_codes/cartridges.jpg)
+![Gameboy Cartridges](./images/cartridges.jpg)
 
 The codes on the game cartridges are usually divided into three groups.
 But in some cases it can be two or four groups.
