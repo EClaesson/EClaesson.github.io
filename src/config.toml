@@ -7,7 +7,7 @@ theme="soho"
 summarylength = 10
 enableEmoji = true
 
-googleAnalytics = "G-9CG4EFVFE7"
+googleAnalytics = "UA-3134871-9"
 
 [menu]
   [[menu.main]]
