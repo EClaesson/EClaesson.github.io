@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Emanuel Claesson"
 publishDir = "../docs"
 theme="soho"
+enableRobotsTXT = true
 
 summarylength = 10
 enableEmoji = true
