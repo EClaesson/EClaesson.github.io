@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://eclaesson.com"
 languageCode = "en-us"
 title = "Emanuel Claesson"
 publishDir = "../docs"

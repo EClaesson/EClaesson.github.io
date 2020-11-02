@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emanuel Claesson</title>
-    <link>/</link>
+    <link>https://eclaesson.com/</link>
     <description>Recent content on Emanuel Claesson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 22:59:44 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 22:59:44 +0100</lastBuildDate><atom:link href="https://eclaesson.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Light Boy Repair</title>
-      <link>/posts/2020_10_30_light_boy_repair/</link>
+      <link>https://eclaesson.com/posts/2020_10_30_light_boy_repair/</link>
       <pubDate>Fri, 30 Oct 2020 22:59:44 +0100</pubDate>
       
-      <guid>/posts/2020_10_30_light_boy_repair/</guid>
+      <guid>https://eclaesson.com/posts/2020_10_30_light_boy_repair/</guid>
       <description>The Light Boy is an officially licensed accessory for the original Game Boy produced by Vic Tokai Inc.</description>
     </item>
     
     <item>
       <title>Game Boy Cartridge Codes (DMG/CGB/AGB)</title>
-      <link>/posts/2020_10_29_game_boy_cartridge_codes/</link>
+      <link>https://eclaesson.com/posts/2020_10_29_game_boy_cartridge_codes/</link>
       <pubDate>Thu, 29 Oct 2020 21:24:21 +0100</pubDate>
       
-      <guid>/posts/2020_10_29_game_boy_cartridge_codes/</guid>
+      <guid>https://eclaesson.com/posts/2020_10_29_game_boy_cartridge_codes/</guid>
       <description>What does the code on a Game Boy cartridge mean? What language is the game in?</description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>/hardware/</link>
+      <link>https://eclaesson.com/hardware/</link>
       <pubDate>Thu, 29 Oct 2020 20:22:10 +0100</pubDate>
       
-      <guid>/hardware/</guid>
+      <guid>https://eclaesson.com/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributions</title>
-      <link>/contributions/</link>
+      <link>https://eclaesson.com/contributions/</link>
       <pubDate>Thu, 22 Oct 2020 22:55:24 +0200</pubDate>
       
-      <guid>/contributions/</guid>
+      <guid>https://eclaesson.com/contributions/</guid>
       <description>» Blender - C https://developer.blender.org/
 Free and Open 3D Creation Software.</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>/cv/</link>
+      <link>https://eclaesson.com/cv/</link>
       <pubDate>Thu, 22 Oct 2020 21:23:26 +0200</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>https://eclaesson.com/cv/</guid>
       <description>» Javascript Developer @ Axenu | 2020 - Current
 Javascript, Vue, React, React Native</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>/software/</link>
+      <link>https://eclaesson.com/software/</link>
       <pubDate>Thu, 22 Oct 2020 21:19:42 +0200</pubDate>
       
-      <guid>/software/</guid>
+      <guid>https://eclaesson.com/software/</guid>
       <description>» jskana - Javascript https://github.com/EClaesson/jskana
 Japanese kana and romaji conversion.</description>
     </item>
