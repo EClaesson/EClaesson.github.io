@@ -1,5 +1,6 @@
 ---
 title: "Light Boy Repair"
+description: "The *Light Boy* is an officially licensed accessory for the original *Game Boy* produced by *Vic Tokai Inc*."
 date: 2020-10-30T22:59:44+01:00
 draft: false
 tags:

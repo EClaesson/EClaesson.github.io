@@ -1,5 +1,6 @@
 ---
 title: "Game Boy Cartridge Codes (DMG/CGB/AGB)"
+description: "What does the code on a *Game Boy* cartridge mean? What language is the game in?"
 date: 2020-10-29T21:24:21+01:00
 draft: false
 tags:
