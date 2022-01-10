@@ -9,6 +9,11 @@ https://developer.blender.org/
 
 Free and Open 3D Creation Software.
 
+### &raquo; CoinGecko-Java - Java
+https://github.com/Philipinho/CoinGecko-Java
+
+Java wrapper for the CoinGecko API.
+
 ### &raquo; nasa8x/rss-to-json - Javascript
 https://github.com/nasa8x/rss-to-json
 

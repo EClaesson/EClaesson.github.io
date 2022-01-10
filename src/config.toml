@@ -61,7 +61,7 @@ googleAnalytics = "UA-3134871-9"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"
-    url = "https://github.com/EClaessonlink"
+    url = "https://github.com/EClaesson"
 
   [taxonomies]
     category = "categories"
@@ -79,3 +79,6 @@ googleAnalytics = "UA-3134871-9"
     noClasses = true # if false, you need to provide you own custom CSS
     style = "fruity"
     tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
