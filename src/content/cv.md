@@ -11,7 +11,7 @@ https://lysa.se/
 
 Java, TypeScript, SQL, CSS, HTML
 
-Spring Boot, React
+Spring, React, Angular
 
 ### &raquo; Fullstack Developer
 **@ Axenu** | *2020 - 2022*
@@ -23,6 +23,28 @@ Java, Python, JavaScript, TypeScript, SQL, CSS, HTML
 Spring, Django, React, React Native, Vue
 
 MySQL, PostgreSQL, Google Cloud Services, Devops, Fastlane
+
+### &raquo; Fullstack Developer
+**@ Mindtemp** | *2020 - 2022*
+
+https://mindtemp.com/
+
+Python, Javascript, HTML, CSS
+
+Django, React, React Native
+
+PostgreSQL, Devops
+
+### &raquo; Fullstack Developer
+**@ Medotemic** | *2020 - 2022*
+
+https://www.medotemic.com/en/home/
+
+Java, Javascript, HTML, CSS
+
+Spring, React, React Native
+
+MySQL, Devops
 
 ### &raquo; Pipeline TD & Software Development
 **@ Istudios Visuals** | *2017 - 2020*
