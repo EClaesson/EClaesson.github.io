@@ -6,7 +6,16 @@
     <description>Recent content on Emanuel Claesson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 22:59:44 +0100</lastBuildDate><atom:link href="https://eclaesson.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jul 2022 22:09:44 +0100</lastBuildDate><atom:link href="https://eclaesson.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random number generation based on atmospheric noise</title>
+      <link>https://eclaesson.com/posts/2022_07_02_random_number_generation_based_on_atmospheric_noise/</link>
+      <pubDate>Sat, 02 Jul 2022 22:09:44 +0100</pubDate>
+      
+      <guid>https://eclaesson.com/posts/2022_07_02_random_number_generation_based_on_atmospheric_noise/</guid>
+      <description>TODO</description>
+    </item>
+    
     <item>
       <title>Light Boy Repair</title>
       <link>https://eclaesson.com/posts/2020_10_30_light_boy_repair/</link>
@@ -31,7 +40,7 @@
       <pubDate>Thu, 29 Oct 2020 20:22:10 +0100</pubDate>
       
       <guid>https://eclaesson.com/hardware/</guid>
-      <description></description>
+      <description>// TODO</description>
     </item>
     
     <item>
@@ -50,8 +59,8 @@ Free and Open 3D Creation Software.</description>
       <pubDate>Thu, 22 Oct 2020 21:23:26 +0200</pubDate>
       
       <guid>https://eclaesson.com/cv/</guid>
-      <description>» Fullstack Developer @ Axenu | 2020 - Current
-Java, Python, JavaScript, TypeScript, SQL, CSS, HTML</description>
+      <description>» Backend Developer @ Lysa | 2022 - Current
+Java, TypeScript, SQL, CSS, HTML</description>
     </item>
     
     <item>
@@ -60,8 +69,10 @@ Java, Python, JavaScript, TypeScript, SQL, CSS, HTML</description>
       <pubDate>Thu, 22 Oct 2020 21:19:42 +0200</pubDate>
       
       <guid>https://eclaesson.com/software/</guid>
-      <description>» jskana - Javascript https://github.com/EClaesson/jskana
-Japanese kana and romaji conversion.</description>
+      <description>» Flygbuss-kalkylator - Typescript, Firebase https://eclaesson.github.io/flygbuss-kalkylator/
+https://github.com/EClaesson/flygbuss-kalkylator
+https://github.com/EClaesson/flygbuss-kalkylator-backend
+Timetable calulator for airport buses in Karlskrona, Sweden.</description>
     </item>
     
   </channel>

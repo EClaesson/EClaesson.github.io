@@ -4,6 +4,18 @@ date: 2020-10-22T21:19:42+02:00
 draft: false
 ---
 
+### &raquo; Flygbuss-kalkylator - Typescript, Firebase
+https://eclaesson.github.io/flygbuss-kalkylator/
+
+https://github.com/EClaesson/flygbuss-kalkylator
+
+https://github.com/EClaesson/flygbuss-kalkylator-backend
+
+
+Timetable calulator for airport buses in Karlskrona, Sweden.
+
+Japanese kana and romaji conversion.
+
 ### &raquo; jskana - Javascript
 https://github.com/EClaesson/jskana
 

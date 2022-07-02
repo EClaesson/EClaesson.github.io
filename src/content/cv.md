@@ -4,8 +4,15 @@ date: 2020-10-22T21:23:26+02:00
 draft: false
 ---
 
+### &raquo; Backend Developer
+**@ Lysa** | *2022 - Current*
+
+Java, TypeScript, SQL, CSS, HTML
+
+Spring Boot, React
+
 ### &raquo; Fullstack Developer
-**@ Axenu** | *2020 - Current*
+**@ Axenu** | *2020 - 2022*
 
 Java, Python, JavaScript, TypeScript, SQL, CSS, HTML
 
