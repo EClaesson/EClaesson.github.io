@@ -11,10 +11,7 @@ https://github.com/EClaesson/flygbuss-kalkylator
 
 https://github.com/EClaesson/flygbuss-kalkylator-backend
 
-
 Timetable calulator for airport buses in Karlskrona, Sweden.
-
-Japanese kana and romaji conversion.
 
 ### &raquo; jskana - Javascript
 https://github.com/EClaesson/jskana
