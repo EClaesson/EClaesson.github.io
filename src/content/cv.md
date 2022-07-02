@@ -7,6 +7,8 @@ draft: false
 ### &raquo; Backend Developer
 **@ Lysa** | *2022 - Current*
 
+https://lysa.se/
+
 Java, TypeScript, SQL, CSS, HTML
 
 Spring Boot, React
@@ -14,25 +16,33 @@ Spring Boot, React
 ### &raquo; Fullstack Developer
 **@ Axenu** | *2020 - 2022*
 
+https://axenu.se/
+
 Java, Python, JavaScript, TypeScript, SQL, CSS, HTML
 
 Spring, Django, React, React Native, Vue
 
 MySQL, PostgreSQL, Google Cloud Services, Devops, Fastlane
 
+### &raquo; Pipeline TD & Software Development
+**@ Istudios Visuals** | *2017 - 2020*
+
+https://www.istudios.se/
+
+Python, Javascript, C++, ExtendScript, Blender, Adobe Creative Suite, Cinema4D
+
 ### &raquo; Fullstack Developer
 **@ Boda Borg Europe** | *2019 - 2020*
+
+https://www.bodaborg.com
 
 PHP, Javascript, SQL, Laravel
 
 ### &raquo; Software Developer & Electronics Technician
 **@ Boda Borg Karlskrona** | *2016 - 2020*
 
+https://www.bodaborg.se/
+
 PHP, Python, Javascript, SQL, Laravel, Lumen
 
 PLC, Embedded systems, Component level electronics, Circuit construction and troubleshooting
-
-### &raquo; Pipeline TD & Software Development
-**@ Istudios Visuals** | *2017 - 2020*
-
-Python, Javascript, C++, ExtendScript, Blender, Adobe Creative Suite, Cinema4D
