@@ -69,10 +69,8 @@ Java, TypeScript, SQL, CSS, HTML</description>
       <pubDate>Thu, 22 Oct 2020 21:19:42 +0200</pubDate>
       
       <guid>https://eclaesson.com/software/</guid>
-      <description>» Flygbuss-kalkylator - Typescript, Firebase https://eclaesson.github.io/flygbuss-kalkylator/
-https://github.com/EClaesson/flygbuss-kalkylator
-https://github.com/EClaesson/flygbuss-kalkylator-backend
-Timetable calulator for airport buses in Karlskrona, Sweden.</description>
+      <description>» insomnia-plugin-firefox-cookies - Javascript https://github.com/EClaesson/insomnia-plugin-firefox-cookies
+Inject Firefox cookies into Insomnia requests.</description>
     </item>
     
   </channel>

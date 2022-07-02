@@ -4,6 +4,12 @@ date: 2020-10-22T21:19:42+02:00
 draft: false
 ---
 
+### &raquo; insomnia-plugin-firefox-cookies - Javascript
+
+https://github.com/EClaesson/insomnia-plugin-firefox-cookies
+
+Inject Firefox cookies into Insomnia requests.
+
 ### &raquo; Flygbuss-kalkylator - Typescript, Firebase
 https://eclaesson.github.io/flygbuss-kalkylator/
 
